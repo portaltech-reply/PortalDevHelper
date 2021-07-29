@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.renegust.portaldevhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.renegust.portaldevhelper.MyBundle
 
 class MyApplicationService {
 
